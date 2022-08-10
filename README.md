@@ -1,7 +1,7 @@
-# presentacion-
 
-Hola!
 
-Mi nombre es Mariel, 23 años casi 24, me gusta la programacion y ando buscando trabajo actualmente y empezar a formarme profesionalmente
+# Hola! Mi nombre es Mariel
+
+23 años casi 24, me gusta la programacion y ando buscando trabajo actualmente y empezar a formarme profesionalmente
 Normalmente me cuesta hablar con la gente ya que no se sacar temas de conversacion pero siempre fui buena escuchando los problemas de los demas
 Espero que nos llevemos bien :)
