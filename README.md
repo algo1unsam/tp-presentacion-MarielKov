@@ -1,10 +1,7 @@
 # presentacion-
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
-- Realicen algun cambio.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
+Hola!
 
-Ya saben usar git!
+Mi nombre es Mariel, 23 años casi 24, me gusta la programacion y ando buscando trabajo actualmente y empezar a formarme profesionalmente
+Normalmente me cuesta hablar con la gente ya que no se sacar temas de conversacion pero siempre fui buena escuchando los problemas de los demas
+Espero que nos llevemos bien :)
